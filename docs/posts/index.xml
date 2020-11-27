@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Road so far... </title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Road so far... </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Nov 2020 00:37:11 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day One</title>
+      <link>http://example.org/posts/blogpostdayone/</link>
+      <pubDate>Sat, 21 Nov 2020 00:37:11 +0200</pubDate>
+      
+      <guid>http://example.org/posts/blogpostdayone/</guid>
+      <description>Digital Humanities This is my First blog about my studies in DIgital humanities This where I am learning, where i use my knowledge to research topic of my liking. Using Github, Gitbash, Hugo, Atom and other interesting &amp;ldquo;things&amp;rdquo; I have to show my understanding of things (even if i do not understand :D ) Let&amp;rsquo;s say, I am pure &amp;ldquo;humanitarian, so i struggle alot. My first blog will be about my idea of topic I want to look more into, Struggles of how to use something I have never used, and this an that Post my progression, achievements and more.</description>
+    </item>
+    
+    <item>
+      <title>Day two</title>
+      <link>http://example.org/posts/blogpostdaytwo/</link>
+      <pubDate>Sat, 21 Nov 2020 00:37:11 +0200</pubDate>
+      
+      <guid>http://example.org/posts/blogpostdaytwo/</guid>
+      <description>Now what? paragrafu te</description>
+    </item>
+    
+    <item>
+      <title>Post Four</title>
+      <link>http://example.org/posts/blogpostdayfour/</link>
+      <pubDate>Sat, 21 Nov 2020 00:37:11 +0200</pubDate>
+      
+      <guid>http://example.org/posts/blogpostdayfour/</guid>
+      <description>Road so far   </description>
+    </item>
+    
+    <item>
+      <title>Post Three</title>
+      <link>http://example.org/posts/blogpostdaythree/</link>
+      <pubDate>Sat, 21 Nov 2020 00:37:11 +0200</pubDate>
+      
+      <guid>http://example.org/posts/blogpostdaythree/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
