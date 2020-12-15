@@ -50,7 +50,7 @@ What if the most pressing problem today isn't the lack of digital tools in cultu
 but rather the lack of humanity in digital culture? Are museum technologists in a unique position
 to critique and change digital culture?
 
-More about this conference and topics with interesting research material you can find [here!](https://ad-hoc-museum-collective.github.io/humanizing-the-digital/chapters/1/)
+More about this conference and topics with interesting research materials you can find [here!](https://ad-hoc-museum-collective.github.io/humanizing-the-digital/chapters/1/)
 
 *I looked into most of the topics I were intereseted in and thought will be usefull for my job in the museum, even if those are theoretcial ideas, but that is start of everything.*
  

@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Story of the museums and technology"
+title = "Story of the The Museum of Riga History and Navigation and technology"
 theme = "gohugo-theme-ananke-master"
 publishDir = "docs"
