@@ -1,4 +1,4 @@
-baseURL = "https://github.com/ZaneKrumina/MainHomework/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Story of  museums  and technology"
 theme = "gohugo-theme-ananke-master"
