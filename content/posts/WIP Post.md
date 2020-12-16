@@ -1,6 +1,6 @@
 ---
-title: "The Museum of Riga History and Navigation part 2"
-date: 2020-12-10T00:37:11+02:00
+title: "The Museum of Riga History and Navigation PART 2"
+date: 2020-12-13T00:37:11+02:00
 draft: true
 ---
 
@@ -125,17 +125,19 @@ Of course, there are other articles with framework system creations not only in 
 **Figure 3** *a) Upload images to the memory. b) Diagram of Image Segmentation, c) Represents the result of Image Segmentation.*
 ![Figure3](/figure3.jpg)
 
-### Conclusion? Not so much. But there will be one!
+### Conclusion? Not so much. But there will be one! Just some thoughts.
 
 Thousands of exhibits exist in most museums. How to preserve and display many exhibits has become an important issue for museum construction and exhibition. 
 With the development of modern digital technology and speech coding technology, museum exhibition and presentation methods are also more diversified. The joint participation of visual, auditory, tactile, and other sensory 
 experiences will leave a deep and strong impression on the audience. Therefore, the use of multimedia, three-dimensional modeling, virtual reality and other technologies can more three-dimensional present more authentic and 
 rich details of cultural relics or collections, bringing a stronger sense of sensory impact and providing a comprehensive and three-dimensional Display the real environment and cultural relics information of the museum.
+
 Topic is about 'possibilities' of implementation of Artificial Intelligence in the museum because it is hard work where are needed finances, projects and understanding, and the desire to achieve planned. 
 There are a lot of research about modern technology influence on culture and life of the museums. It is important to understand and research these modern tendencies, to even start implementing these modern ideas in museum.
 The first steps in using Artificial Intelligence in the museum environment is to start with more basic technologies like digital interactive display technologies, and to work and move to more complicated and advanced technology, 
 with the help of projects similar to ArchAIDE's. And because of the lack of digital technology knowledge in all of our museum departments it would be wise to start with archeology's department, because most of the artefacts are so old, 
 that they can be barely kept safe, and even the smallest digitalization with 3d and artificial intelligence, would ease the job afterwards.
+
 In the museum collection we have thousands of pottery fragments, which mostly make incomplete objects when they are reconstructed, and because of lack of right technology and programs and knowledge, 
 it is not possible to replicate and "finish" the look of the historical authentic object, saving them in database type catalogue, for further work and research. So as for a step forward it would be use sort of framework algorithms 
 with step-by-steps creating classification for archaeological collections in the museum for further reconstructions, and working this system together with project like ArchAIDE, it would be good experience in theoretical and practical area.
